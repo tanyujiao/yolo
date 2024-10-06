@@ -1,0 +1,5 @@
+train: /home/tan_15592/yolo/dataset/images/train/
+val: /home/tan_15592/yolo/dataset/images/val/
+nc: 2
+names: ['ant', 'bee']
+

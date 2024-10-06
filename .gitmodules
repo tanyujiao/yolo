@@ -1,0 +1,6 @@
+[submodule "labelImg"]
+	path = labelImg
+	url = https://github.com/user/labelImg.git
+[submodule "ultralytics"]
+	path = ultralytics
+	url = https://github.com/user/ultralytics.git
